@@ -4,8 +4,8 @@ const port = 5000;
 
 // Datos simulados de clientes y productos
 const clientes = [
-  { id: 1, nombre: 'Treyci Perez' },
-  { id: 2, nombre: 'Jaime Farfán' },
+  { id: 1, nombre: 'Vanessa Surco' },
+  { id: 2, nombre: 'Jhon Manzil' },
   { id: 3, nombre: 'Gabriel Rodriguez' },
 ];
 
